@@ -21,7 +21,7 @@ module exp2_tb;
     end
 
     initial begin
-        $dumpfile("SarthakSinghTariyal_2023kuec2016_lab3_expression2.vcd");
+        $dumpfile("exp2.vcd");
         $dumpvars(0, exp2_tb);
     end
 
